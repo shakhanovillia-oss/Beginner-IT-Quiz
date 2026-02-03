@@ -1,5 +1,4 @@
 def run_quiz():
-    # Список глобальных и простых вопросов
     questions = [
         {
             "prompt": "What is the main brain of a computer?",
